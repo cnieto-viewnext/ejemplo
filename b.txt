@@ -1,2 +1,2 @@
-Esta es la letra "b" minuscula
-Esta es la letra "B" mayuscula
+Esta es la letra "b" minuscula.
+Esta es la letra "B" mayuscula.
